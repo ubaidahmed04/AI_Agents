@@ -1,0 +1,6 @@
+{
+  "name": "my-first-agent",
+  "instructions": "You are a helpful assistant that explains code.",
+  "tools": [],
+  "model": "gpt-4o"
+}
